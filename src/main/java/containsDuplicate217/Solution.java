@@ -1,4 +1,4 @@
-package com.sujeet.project.rockpaperscissor.containsDuplicate217;
+package containsDuplicate217;
 
 import java.util.HashSet;
 import java.util.Set;

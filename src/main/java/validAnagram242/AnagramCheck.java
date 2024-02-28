@@ -1,4 +1,4 @@
-package com.sujeet.project.rockpaperscissor.validAnagram242;
+package validAnagram242;
 
 import java.util.Arrays;
 

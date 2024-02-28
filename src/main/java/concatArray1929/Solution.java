@@ -1,6 +1,4 @@
-package com.sujeet.project.rockpaperscissor.concatArray1929;
-
-import java.util.Arrays;
+package concatArray1929;
 
 public class Solution {
     public int[] getConcatenation(int[] nums){
